@@ -15,4 +15,4 @@ Aqui estão meus projetos desenvolvidos com **Python, SQL e Power BI**, focados 
    - Visualização de indicadores e filtros dinâmicos.
    - 
 📫 **Contato:**  
-[LinkedIn](https://www.linkedin.com/in/oliveira-guilhermo)) | [E-mail](mailto:oliveira.guilhermo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oliveira-guilhermo) | [E-mail](mailto:oliveira.guilhermo@gmail.com)
